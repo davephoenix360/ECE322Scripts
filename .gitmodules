@@ -1,0 +1,3 @@
+[submodule "ECE-322"]
+	path = ECE-322
+	url = https://github.com/AtrazineC/ECE-322.git
